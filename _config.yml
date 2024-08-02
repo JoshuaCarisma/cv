@@ -1,1 +1,14 @@
+title: Joshua Carisma   
 
+logo: jc_outdoors.png
+
+description: Data Science, AI, Health & Fitness - Creating holisitic solutions using tech 
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: joshuacarisma@gmail.com 
