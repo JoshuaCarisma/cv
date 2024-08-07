@@ -12,15 +12,15 @@ Versatile professional with extensive experience in health and fitness coaching,
 ## Skills
 
 **Technical Expertise:**
-- **Data Science and Machine Learning:** Proficient in Python, SciPy, NumPy, Pandas, regression, classification, deep learning, neural networks, NLP, LLM, and model optimization.
-- **Data Management and Visualization:** Skilled in SQL, Tableau, Excel, Google BigQuery, Matplotlib, Seaborn, and Plotly.
+- **Data Science and Machine Learning:** Proficient in Python, SciPy, NumPy, Pandas, clustering, regression, classification, decision trees, deep learning, neural networks, NLP, LLM, and model optimization.
+- **Data Management and Visualization:** Skilled in SQL, Tableau, Excel, Looker Studio, BigQuery, Matplotlib, and Seaborn.
 
 **Project Management and Business Acumen:**
 - **Project Management:** Proficient in Google Workspace, Trello, Notion, Slack, and PMI methodologies, managing multiple projects to timely completion.
 - **Business Administration:** Experienced in Salesforce CRM, strategic planning, business problem-solving, and marketing.
 
 **Communication and Collaboration:**
-- **Collaboration:** Effective in diverse teams, leading cross-functional projects.
+- **Collaboration:** Effective in diverse teams, utilizing critical thinking and creativity to lead cross-functional projects.
 - **Communication:** Expert verbal and written skills, adept at presenting data insights.
 
 ---
