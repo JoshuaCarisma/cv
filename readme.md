@@ -63,4 +63,4 @@ _Graduated August 2014_
 
 ---
 
-[GitHub](https://github.com/JoshuaCarisma) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma/)
+[Email](mailto:joshuacarisma@gmail.com) | [GitHub](https://github.com/JoshuaCarisma) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma/) 
