@@ -1,5 +1,5 @@
 # Joshua Carisma (he/him)
-**Data Analyst**
+# **Data Analyst**
 
 [Email](mailto:joshuacarisma@gmail.com) | [GitHub](https://github.com/JoshuaCarisma) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma/) | [Tableau](https://public.tableau.com/app/profile/joshua.carisma/vizzes)
 ---
