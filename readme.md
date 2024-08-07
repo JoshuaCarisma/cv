@@ -1,7 +1,7 @@
 # Joshua Carisma (he/him)
 **Data Analyst**
 
-[Email](mailto:joshuacarisma@gmail.com) | [GitHub](https://github.com/JoshuaCarisma) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma/) | [Tableau](https://www.public.tableau.com/app/profile/joshua.carisma/vizzes/)
+[Email](mailto:joshuacarisma@gmail.com) | [GitHub](https://github.com/JoshuaCarisma) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma/) | [Tableau](https://www.public.tableau.com/app/profile/joshua.carisma/vizzes)
 ---
 
 ## Summary
@@ -62,4 +62,4 @@ _Graduated August 2014_
 
 ---
 
-[Email](mailto:joshuacarisma@gmail.com) | [GitHub](https://github.com/JoshuaCarisma) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma/) | [Tableau] (https://public.tableau.com/app/profile/joshua.carisma/vizzes)
+[Email](mailto:joshuacarisma@gmail.com) | [GitHub](https://github.com/JoshuaCarisma) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma/) | [Tableau](https://www.public.tableau.com/app/profile/joshua.carisma/vizzes)
