@@ -1,7 +1,7 @@
 # Joshua Carisma (he/him)
 **Data Analyst**
 
-[Email](mailto:joshuacarisma@gmail.com) | [GitHub](https://github.com/JoshuaCarisma) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma/) | (786) 236-1829
+[Email](mailto:joshuacarisma@gmail.com) | [GitHub](https://github.com/JoshuaCarisma) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma/) 
 
 ---
 
