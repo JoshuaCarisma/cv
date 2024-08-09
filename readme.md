@@ -1,5 +1,5 @@
 # Joshua Carisma (he/him)
-# **Data Analyst**
+# **Data Scientist**
 
 [Email](mailto:joshuacarisma@gmail.com) | [GitHub](https://github.com/JoshuaCarisma) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma/) | [Tableau](https://public.tableau.com/app/profile/joshua.carisma/vizzes)
 ---
@@ -12,7 +12,7 @@ Versatile professional with extensive experience in health and fitness coaching,
 ## Skills
 
 **Technical Expertise:**
-- **Data Science and Machine Learning:** Proficient in Python, SciPy, NumPy, Pandas, clustering, regression, classification, decision trees, deep learning, neural networks, NLP, LLM, and model optimization.
+- **Data Science and Machine Learning:** Proficient in Python, AI, SciPy, NumPy, Pandas, TensorFlow, clustering, regression, classification, decision trees, deep learning, neural networks, NLP, LLM, and model optimization.
 - **Data Management and Visualization:** Skilled in SQL, Tableau, Excel, Looker Studio, BigQuery, Matplotlib, and Seaborn.
 
 **Project Management and Business Acumen:**
